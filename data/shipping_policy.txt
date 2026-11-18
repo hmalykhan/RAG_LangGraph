@@ -1,0 +1,24 @@
+NOVATECH DEMO STORE - SHIPPING AND DELIVERY POLICY
+CLASSROOM SAMPLE DATA ONLY. This is a fictional shop, not a real business policy.
+
+Policy ID: SHIPPING-2026-DEMO
+
+1. PROCESSING TIME
+After an order is placed, the demo store usually processes and dispatches it within 1 to 2 working days. Weekends and public holidays do not count as working days.
+
+2. STANDARD DELIVERY
+Standard delivery normally takes 3 to 5 working days after dispatch within the demo service area. This is an estimate, not a fixed guarantee. Delivery may be delayed by weather, public holidays, address problems, or courier issues.
+
+3. TRACKING
+A tracking number may be available after dispatch. The customer can ask the Support Agent to record a complaint if their delivery is late. This classroom application does not connect to an external courier API, so it must not invent live tracking positions.
+
+4. LATE ORDERS
+If more than 5 working days have passed since dispatch, ask the customer for the order ID and the date of dispatch. Create a support ticket to request an update. The ticket must use real data saved in SQLite.
+
+5. DAMAGED PARCELS
+For an item that arrives damaged, explain the return-policy process and ask for order ID and damage details. Use the separate return_policy.txt file for the exact eligibility window.
+
+EXAMPLE QUESTIONS
+- How many working days does standard delivery take?
+- My package is late. How can I open a complaint?
+- Do you have live courier tracking?

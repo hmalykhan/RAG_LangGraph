@@ -1,0 +1,24 @@
+NOVATECH DEMO STORE - RETURN AND REFUND POLICY
+CLASSROOM SAMPLE DATA ONLY. This is a fictional shop, not a real business policy.
+
+Policy ID: RETURNS-2026-DEMO
+
+1. DAMAGED PRODUCTS
+A customer may request a return for a product that arrived damaged within 14 calendar days after delivery. A damaged laptop delivered 10 days ago is within this 14-day window. The customer should provide their order ID, a short description of the damage, and at least one clear photograph. The support team must review the request before confirming acceptance. An AI assistant must not promise an automatic refund.
+
+2. CHANGE OF MIND
+An unopened, unused product may be returned within 7 calendar days after delivery for a change-of-mind request. Opened or used products are not eligible under this rule unless they are damaged or defective.
+
+3. REFUND PROCESS
+After a return is accepted and the item passes inspection, the demo store aims to issue a refund decision within 5 business days. Do not interpret this as a guaranteed payment-arrival time. Refunds and payment transfers are not part of the student application.
+
+4. HOW TO REQUEST HELP
+Ask for the order ID, item, issue, and date of delivery. Create a support ticket through the Support Agent. The ticket status starts as OPEN. The user can later ask for the ticket's current status.
+
+5. EXCEPTIONS
+If evidence is missing, ask the customer for the missing details. If the policy does not address a special case, say that the support team needs to review it. Never invent eligibility.
+
+EXAMPLE QUESTIONS
+- Can I return my damaged laptop after 10 days?
+- I received a broken keyboard. What proof is required?
+- Can I return an opened product because I changed my mind?

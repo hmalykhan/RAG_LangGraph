@@ -1,0 +1,24 @@
+NOVATECH DEMO STORE - PRODUCT FAQ AND WARRANTY INFORMATION
+CLASSROOM SAMPLE DATA ONLY. This is a fictional shop, not a real business policy.
+
+Policy ID: PRODUCT-FAQ-2026-DEMO
+
+1. PRODUCT CATALOG
+The fictional demo store sells laptop computers, keyboards, mice, and accessories. The knowledge base contains general policy information only. It does not provide real inventory counts or current market prices.
+
+2. STANDARD WARRANTY
+For eligible laptop models, a 12-month limited warranty covers manufacturing defects beginning from the purchase date. Warranty verification requires the order ID and the device serial number. Damage from spills, drops, or other accidents is excluded from the standard warranty.
+
+3. WARRANTY CLAIM PROCESS
+The customer should supply the order ID, laptop model, serial number, and a description of the suspected defect. The Support Agent may open a ticket for review. Ticket creation is not proof that a warranty claim has been accepted.
+
+4. RETURNS VERSUS WARRANTY
+A product that arrived damaged should first be checked against the return_policy.txt rules. A product that develops a manufacturing fault later should be checked against the warranty information here. Do not combine these two policies into one rule.
+
+5. HELP AND LIMITATIONS
+If a customer asks for stock availability, product prices, technical specifications, or a warranty condition not described in the uploaded documents, explain that the demo knowledge base does not contain verified information. Do not invent details.
+
+EXAMPLE QUESTIONS
+- How long is the laptop warranty?
+- Is water damage covered by the warranty?
+- What information is needed to open a warranty ticket?
